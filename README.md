@@ -10,8 +10,11 @@ Atuo profissionalmente desde 2020. No 1ºano da minha carreira atuei com metodol
 
 Nessa página você encontrará projetos na área de Analytics que incluem:
 -Tratamento e transformação de dados
+
 -Analise exploratória de dados
+
 -Dataviz
+
 -Inferências estatísticas
 
 ## Caso queira me contatar, seguem informações abaixo:

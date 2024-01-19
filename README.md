@@ -9,6 +9,7 @@ Além da escola, eu sempre fui atleta competitivo. Aos 10 anos o esporte era tê
 Atuo profissionalmente desde 2020. No 1ºano da minha carreira atuei com metodologia ágil, o que me ensinou muito sobre gestão de projetos. Depois de um ano atuando nessa área migrei para a área de Analytics, que atuo profissionalmente desde então. Trabalho principalmente com **Python e SQL** para desenvolver **análises exploratórias de dados, análises estatísticas, visualizações e ETL**. A minha área de atuação sempre foi híbrida, com aspectos técnicos e de negócio.
 
 Nessa página você encontrará projetos na área de Analytics que incluem:
+
 -Tratamento e transformação de dados
 
 -Analise exploratória de dados
